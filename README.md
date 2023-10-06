@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | | | |
+| | | | | |e|
 
 |-|-|-|-|-|-|
 
@@ -12,4 +12,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-Romy guesses E
+1 Romy guesses E
