@@ -15,3 +15,4 @@
 1 Romy guesses E  
 2 Romy guesses N  
 3 Romy guesses S  
+4 Romy guesses A  
