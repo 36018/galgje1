@@ -13,3 +13,4 @@
 
 ## Beurten
 1 Romy guesses E
+2 Romy guesses N
