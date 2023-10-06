@@ -12,5 +12,6 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-1 Romy guesses E
-2 Romy guesses N
+1 Romy guesses E  
+2 Romy guesses N  
+3 Romy guesses S  
